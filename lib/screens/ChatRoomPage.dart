@@ -60,6 +60,8 @@ class _ChatRoomPageState extends State<ChatRoomPage> {
               backgroundColor: Colors.grey[300],
               backgroundImage: NetworkImage(widget.targetUser.profilepic.toString()),
             ),
+            // hello
+            // jagd
 
             SizedBox(width: 10,),
 
