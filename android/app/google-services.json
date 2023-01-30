@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47165550179",
+    "project_id": "jagruti-chat",
+    "storage_bucket": "jagruti-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47165550179:android:477e1b0194490f2231d256",
+        "android_client_info": {
+          "package_name": "com.example.jagrutigurukul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47165550179-2s5cd3bhkrg1o5s5262c2f3qul5k5v2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV69x_NcIIpNGbQQQJupnlufRFaSPHXCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47165550179-2s5cd3bhkrg1o5s5262c2f3qul5k5v2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
